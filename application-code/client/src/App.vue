@@ -3,7 +3,7 @@
 
 <template>
   <div id="app">
-    <Nav v-if="$route.name!='Login'"/>
+    <Nav v-if="$route.name!='Main'"/>
     <router-view> </router-view>
     <Footer />
   </div>
