@@ -55,7 +55,7 @@ form {
     padding: 1rem 2rem;
 }
 
-.todos li.completed {
+.todos completed {
     color: #b6b6b6;
     text-decoration: line-through;
 }
